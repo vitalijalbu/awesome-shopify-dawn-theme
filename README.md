@@ -6,8 +6,8 @@ A curated list of stores using Shopify Dawn theme (native or extended):
 - https://gleamin.com/it-it
 - https://www.semainehealth.com/
 
- ## 📱Gadgets & Accessories
+ ## 📱 Gadgets & Accessories
 - https://www.coverlab.com/it
 
  ## 👕 Fashion
--https://www.pucci.com/
+- https://www.pucci.com/
