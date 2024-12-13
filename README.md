@@ -11,3 +11,4 @@ A curated list of stores using Shopify Dawn theme (native or extended):
 
  ## 👕 Fashion
 - https://www.pucci.com/
+- https://vivyinrosa.com/
