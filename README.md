@@ -8,3 +8,6 @@ A curated list of stores using Shopify Dawn theme (native or extended):
 
  ## 📱Gadgets & Accessories
 - https://www.coverlab.com/it
+
+ ## 👕 Fashion
+-https://www.pucci.com/
