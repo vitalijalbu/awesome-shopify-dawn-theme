@@ -2,13 +2,14 @@
 A curated list of stores using Shopify Dawn theme (native or extended):
 
 ## 🛁 Wellness & Skincare
-- https://shop.silvasplendid.it/
-- https://gleamin.com/it-it
-- https://www.semainehealth.com/
+- [Silva Splendid](https://shop.silvasplendid.it)
+- [Gleamin](https://gleamin.com/it-it)
+- [Semaine](https://semainehealth.com)
 
  ## 📱 Gadgets & Accessories
-- https://www.coverlab.com/it
+- [Coverlab](https://coverlab.com/it)
 
  ## 👕 Fashion
-- https://www.pucci.com/
-- https://vivyinrosa.com/
+- [Pucci](https://pucci.com)
+- [Vivyinrosa](https://vivyinrosa.com)
+- [Flag Nor Fail](https://flagnorfail.com)
